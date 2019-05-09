@@ -1,0 +1,18 @@
+# Folders
+bin/
+build/
+target/
+logs/
+target/
+temp/
+.idea/
+
+# Files
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+!conf/server.yml.example
+!.mvn/wrapper/maven-wrapper.jar
+src/main/resources/application.yml
